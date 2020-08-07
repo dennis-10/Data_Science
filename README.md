@@ -14,7 +14,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn] www.linkedin.com/in/dennis-rodrigues
+* [LinkedIn] (www.linkedin.com/in/dennis-rodrigues)
 
 
 
