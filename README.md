@@ -14,13 +14,13 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn]https://www.linkedin.com/in/dennis-santos-9540031b2/
+* [LinkedIn] www.linkedin.com/in/dennis-rodrigues
 
 
 
 ## Projetos:
 
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Como lidar com dados desbalanceados:**
 
 ---
 
